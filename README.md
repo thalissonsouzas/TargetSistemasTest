@@ -24,7 +24,7 @@ Cada arquivo `.js` pode ser executado diretamente utilizando o Node.js. Siga as 
 
    ```
 
-   1. **Execute uma das questões**
+2. **Execute uma das questões**
 
    ```bash
    node question1.js
